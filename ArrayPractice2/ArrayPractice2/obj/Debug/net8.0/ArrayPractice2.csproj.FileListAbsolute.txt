@@ -1,0 +1,14 @@
+C:\Users\Ustich\Desktop\студент\3 КУРС\Об'єктно орієнтоване програмування\практична на 21.10.25\ArrayPractice2\ArrayPractice2\bin\Debug\net8.0\ArrayPractice2.exe
+C:\Users\Ustich\Desktop\студент\3 КУРС\Об'єктно орієнтоване програмування\практична на 21.10.25\ArrayPractice2\ArrayPractice2\bin\Debug\net8.0\ArrayPractice2.deps.json
+C:\Users\Ustich\Desktop\студент\3 КУРС\Об'єктно орієнтоване програмування\практична на 21.10.25\ArrayPractice2\ArrayPractice2\bin\Debug\net8.0\ArrayPractice2.runtimeconfig.json
+C:\Users\Ustich\Desktop\студент\3 КУРС\Об'єктно орієнтоване програмування\практична на 21.10.25\ArrayPractice2\ArrayPractice2\bin\Debug\net8.0\ArrayPractice2.dll
+C:\Users\Ustich\Desktop\студент\3 КУРС\Об'єктно орієнтоване програмування\практична на 21.10.25\ArrayPractice2\ArrayPractice2\bin\Debug\net8.0\ArrayPractice2.pdb
+C:\Users\Ustich\Desktop\студент\3 КУРС\Об'єктно орієнтоване програмування\практична на 21.10.25\ArrayPractice2\ArrayPractice2\obj\Debug\net8.0\ArrayPractice2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ustich\Desktop\студент\3 КУРС\Об'єктно орієнтоване програмування\практична на 21.10.25\ArrayPractice2\ArrayPractice2\obj\Debug\net8.0\ArrayPractice2.AssemblyInfoInputs.cache
+C:\Users\Ustich\Desktop\студент\3 КУРС\Об'єктно орієнтоване програмування\практична на 21.10.25\ArrayPractice2\ArrayPractice2\obj\Debug\net8.0\ArrayPractice2.AssemblyInfo.cs
+C:\Users\Ustich\Desktop\студент\3 КУРС\Об'єктно орієнтоване програмування\практична на 21.10.25\ArrayPractice2\ArrayPractice2\obj\Debug\net8.0\ArrayPractice2.csproj.CoreCompileInputs.cache
+C:\Users\Ustich\Desktop\студент\3 КУРС\Об'єктно орієнтоване програмування\практична на 21.10.25\ArrayPractice2\ArrayPractice2\obj\Debug\net8.0\ArrayPractice2.dll
+C:\Users\Ustich\Desktop\студент\3 КУРС\Об'єктно орієнтоване програмування\практична на 21.10.25\ArrayPractice2\ArrayPractice2\obj\Debug\net8.0\refint\ArrayPractice2.dll
+C:\Users\Ustich\Desktop\студент\3 КУРС\Об'єктно орієнтоване програмування\практична на 21.10.25\ArrayPractice2\ArrayPractice2\obj\Debug\net8.0\ArrayPractice2.pdb
+C:\Users\Ustich\Desktop\студент\3 КУРС\Об'єктно орієнтоване програмування\практична на 21.10.25\ArrayPractice2\ArrayPractice2\obj\Debug\net8.0\ArrayPractice2.genruntimeconfig.cache
+C:\Users\Ustich\Desktop\студент\3 КУРС\Об'єктно орієнтоване програмування\практична на 21.10.25\ArrayPractice2\ArrayPractice2\obj\Debug\net8.0\ref\ArrayPractice2.dll
